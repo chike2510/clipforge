@@ -1,0 +1,10 @@
+node_modules
+.next
+.env*
+jobs
+uploads
+downloads
+clips
+__pycache__
+*.pyc
+.DS_Store
