@@ -1,6 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap');
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-:root{--font-display:'Space Grotesk';--font-sans:'Space Grotesk'}
-*{box-sizing:border-box} body{margin:0;background:#f4f1e8;color:#17211b;font-family:var(--font-sans),sans-serif} button,input,textarea{font:inherit}.mono{font-family:'DM Mono',monospace}.grain{background-image:radial-gradient(rgba(23,33,27,.08) .7px,transparent .7px);background-size:5px 5px}.pill{border:1px solid rgba(23,33,27,.18);border-radius:999px}.shadow-soft{box-shadow:0 18px 50px rgba(23,33,27,.1)}
